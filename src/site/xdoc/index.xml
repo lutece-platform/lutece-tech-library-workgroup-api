@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<properties>
+		<title>Library Workgroup API</title>
+	</properties>
+	<body>
+		<section name="Library Workgroup API">
+			<subsection name="Introduction">
+				<p>
+					This library provides the workgroup interfaces.
+				</p>
+			</subsection>
+		</section>
+	</body>
+</document>

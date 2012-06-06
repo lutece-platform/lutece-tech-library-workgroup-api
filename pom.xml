@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>library-workgroup-api</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>API Lutece Workgroup</name>
     <description>API Lutece Workgroup Library</description>
     
@@ -204,8 +204,8 @@
     </reporting>
     
     <scm>
-        <connection>scm:svn:http://${serverUrl}/svn/lutece/portal/trunk/plugins/library/library-workgroup-api</connection>
-        <developerConnection>scm:svn:https://${serverUrl}/svn/lutece/portal/trunk/plugins/library/library-workgroup-api</developerConnection>
-        <url>http://${serverUrl}/viewvc/lutece/portal/trunk/plugins/library/library-workgroup-api</url>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/library-workgroup-api-1.0.0</connection>
+        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/tags/library-workgroup-api-1.0.0</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/tags/library-workgroup-api-1.0.0</url>
     </scm>
 </project>
